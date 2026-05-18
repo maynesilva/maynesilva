@@ -1,6 +1,6 @@
 # 🌌 Mayne Silva
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Desenvolvedora em desenvolvimento`**
 
 Me chamo Mayne Silva e sou residente de Americana - SP. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FATEC de Americana. 
 Comecei com o interesse através de estudos sobre UX/UI Design e, desde então, descobri uma paixão pela tecnologia. 
