@@ -6,9 +6,6 @@ Me chamo Mayne Silva e sou residente de Americana - SP. Atualmente, sou estudant
 Comecei com o interesse através de estudos sobre UX/UI Design e, desde então, descobri uma paixão pela tecnologia. 
 Tenho como objetivo me tornar uma desenvolvedora Full Stack, mas com um olhar a mais para o Front-End.
 
-<div>
- <a href="www.linkedin.com/in/mayne-silva-99949428b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 ---
 
 ### 💻 Linguagens e Tecnologias
